@@ -14,11 +14,11 @@ Jestem początkującą **Web Developer** z inspiracjami do zostania **Full Stack
 
 ### 🔹 Strona wizytówka (WordPress)
 Prosta strona prezentująca ofertę firmy – dostosowana szata graficzna, SEO, kontakt przez formularz.
-[![Strona firmowa ADS Recykling](https://ads-recykling.com.pl/)
+[Strona firmowa ADS Recykling](https://ads-recykling.com.pl/)
 
 ### 🔹 Sklep internetowy (WooCommerce)
 Sklep z panelem administracyjnym, integracją płatności i responsywnym wyglądem.
-[![Strona sklepu internetowego ArteDania](https://artedania.sklep.pl/)
+[Strona sklepu internetowego ArteDania](https://artedania.sklep.pl/)
 
 ### 🔹 Aplikacja magazynowa (React + Node.js + PostgreSQL) *(w trakcie tworzenia)*
 Aplikacja do zarządzania produktami w magazynie. 
