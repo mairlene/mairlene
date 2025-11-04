@@ -27,6 +27,7 @@ Aplikacja do zarządzania produktami w magazynie.
 - Dodawanie, edycja, wyszukiwanie i filtrowanie danych.
 - Przenoszenie produktów pomiędzy magazynami i zużywanie produktów.
 - Rejestracja i logowanie, panel admina.
+  
 Backend REST API w Node.js, baza danych PostgreSQL.
 
 ## 🎯 Moje cele
