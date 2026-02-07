@@ -39,6 +39,7 @@ Aplikacja do zarządzania produktami w magazynie.
 - Rejestracja i logowanie, panel admina.
   
 Backend REST API w Node.js, baza danych PostgreSQL.
+[Magazyn App](https://github.com/mairlene/magazyn_app)
 
 ## 🎯 Moje cele
 Chcę dalej rozwijać się w kierunku **Full Stack Developmentu**, poznawać nowe technologie i budować praktyczne aplikacje, które rozwiązują realne problemy. Pragnę tworzyć nowoczesne aplikacje internetowe — od prostych stron po pełne systemy z backendem i bazą danych.
