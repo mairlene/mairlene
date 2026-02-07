@@ -35,7 +35,9 @@ Backend z Node.js, baza danych PostgreSQL, warstwa frontendowa to Svelte i TypeS
 ### 🔹 Aplikacja magazynowa (JavaScript + React + Node.js + PostgreSQL) *(w trakcie tworzenia)*
 Aplikacja do zarządzania produktami w magazynie. 
 - Dodawanie, edycja, wyszukiwanie i filtrowanie danych.
-- Przenoszenie produktów pomiędzy magazynami i zużywanie produktów.
+- Przenoszenie produktów pomiędzy magazynami i pobieranie produktów z magazynu.
+- Wyświetlanie szczegółów produktu, historii wykonanych akcji.
+- Import danych z pliku csx/excel.
 - Rejestracja i logowanie, panel admina.
   
 Backend REST API w Node.js, baza danych PostgreSQL.
