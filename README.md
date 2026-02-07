@@ -33,6 +33,8 @@ Dzięki udziałowi w tym projekcie poszerzyłam doświadczenie w pracy nad realn
 Backend z Node.js, baza danych PostgreSQL, warstwa frontendowa to Svelte i TypeScript.
 
 ### 🔹 Aplikacja magazynowa (JavaScript + React + Node.js + PostgreSQL) *(w trakcie tworzenia)*
+[Magazyn App](https://github.com/mairlene/magazyn_app)
+
 Aplikacja do zarządzania produktami w magazynie. 
 - Dodawanie, edycja, wyszukiwanie i filtrowanie danych.
 - Przenoszenie produktów pomiędzy magazynami i pobieranie produktów z magazynu.
@@ -41,7 +43,6 @@ Aplikacja do zarządzania produktami w magazynie.
 - Rejestracja i logowanie, panel admina.
   
 Backend REST API w Node.js, baza danych PostgreSQL.
-[Magazyn App](https://github.com/mairlene/magazyn_app)
 
 ## 🎯 Moje cele
 Chcę dalej rozwijać się w kierunku **Full Stack Developmentu**, poznawać nowe technologie i budować praktyczne aplikacje, które rozwiązują realne problemy. Pragnę tworzyć nowoczesne aplikacje internetowe — od prostych stron po pełne systemy z backendem i bazą danych.
